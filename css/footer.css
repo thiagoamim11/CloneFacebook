@@ -1,0 +1,27 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+footer{
+	width: 100%;
+	align-content: space-between;
+	color: #8a8d91;
+}
+
+
+footer div{
+	font-family: 'Sorts Mill Goudy', serif;
+	text-align: center;
+	padding-top: 20px;
+}
+
+div h2{
+	padding: 5px;
+	color: #8a8d91;
+}
+
+div h3{
+	padding-bottom: 5px;
+	color: #8a8d91;
+}

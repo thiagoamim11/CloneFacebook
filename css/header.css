@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+
+
+}
+
+header{
+	background: #f0f2f5;
+	height: 130px;
+
+}
+
+
+.logo img{
+	width: 210px;
+	height: 110px;
+
+
+}
+
+.logo{
+	text-align: center;
+	padding-top: 40px;
+}
